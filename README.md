@@ -1,2 +1,2 @@
 # BST
-haail hitler
+Binary Search Tree project
